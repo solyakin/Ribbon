@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="181.676" height="18.175" viewBox="0 0 181.676 18.175">
+  <g id="Navigation_Bar" data-name="Navigation Bar" transform="translate(-15.224 -31.302)">
+    <text id="STATS" transform="translate(177.9 45.302)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-18.567" y="0">STATS</tspan></text>
+    <g id="Backward_arrow" data-name="Backward arrow" transform="translate(15.224 34.254)">
+      <path id="Path_10" data-name="Path 10" d="M7.612,0,6.228,1.384l5.239,5.239H0V8.6H11.467L6.228,13.84l1.384,1.384,7.612-7.612Z" transform="translate(15.224 15.224) rotate(180)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    width: 100%;
+    padding: 0 3%;
+}
+.footer svg{
+    color : #ec3e86;
+}
+.footer a:active{
+    color: blue
+}
+.footer .home, .activity, .wallet, .market, .earn{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 5px;
+    line-height: 20px;
+    cursor: pointer;
+}
+.footer p{
+    font-size: 10px;
+    margin: 3px 0px;
+    color: #ec3e86;
+    font-weight: 700;
+}
+.selected > p{
+    color: yellow;
+}
+
