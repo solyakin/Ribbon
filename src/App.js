@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-import Home from './component/Home/Home';
+import Home from './component/Home-Menu/home-menu';
 import Activity from './component/Activity/activity';
 import Wallet from './component/Wallet/wallet';
 import Market from './component/Market/market';
